@@ -62,5 +62,3 @@ write_error(){
 write_fatal(){
 	write_level "FATAL" "${1}" "${2}"
 }
-
-write_warning "teste"
