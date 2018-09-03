@@ -9,7 +9,7 @@
 #6 TRACE	-> Niveau d’information ultrafin. (Affiche : 6-5-4-3-2-1)
 
 OUTPUT_CMD_LEVEL='TRACE'
-OUTPUT_LOG_LEVEL='DEBUG'
+OUTPUT_LOG_LEVEL='NONE'
 DATE=$(date +%Y-%m-%d)
 WRITE_LOG_PATH="output_${DATE}.log"
 
